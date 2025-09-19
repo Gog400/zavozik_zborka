@@ -3,8 +3,8 @@ Java 17
 Forge ModLoader 47.4.0
 Рекоммендуемое кол-во памяти: 4-6 GB (на 4гб сборке может не хватать памяти для загрузки миров).
 
----
 Глобальные технические моды:
+---
 Create 
 Create Applied Kinetics 
 Create Big Cannons 
@@ -47,9 +47,8 @@ Extreme Reactors
 ---
 
 
-
----
 Глобальные рпг моды:
+---
 tetra 
 tetracelium
 Tetra Extras 
@@ -85,9 +84,8 @@ Artifacts
 ---
 
 
-
----
 Глобальные магические моды:
+---
 Ars Nouveau 
 Ars Additions 
 Ars Artifice 
@@ -140,9 +138,8 @@ Malum
 ---
 
 
-
----
 Мобы:
+---
 Born in Chaos 
 Alex's Caves 
 Enemy Expansion 
@@ -164,9 +161,8 @@ Ender Dragon Loot 1.20.1
 ---
 
 
-
----
 Второстепенные QoL моды:
+---
 Antique Atlas 
 BotanyPots 
 BotanyTrees 
@@ -223,9 +219,8 @@ Diet
 ---
 
 
-
----
 Генерация мира:
+---
 William Wythers Overhauled Overworld [FORGE] 
 Noisium 
 YUNG's API 
@@ -241,9 +236,8 @@ YUNG's Extras
 ---
 
 
-
----
 Библиотеки для модов/фиксы/оптимизация:
+---
 All The Leaks 
 Almanac 
 Apothic Attributes 
