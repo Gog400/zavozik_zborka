@@ -7,7 +7,7 @@
 1) Заходим с ВПНом и качаем лаунчер:
 https://prismlauncher.org/download/windows/
 
-2) Закрываем лаунчер
+2) Устанавливаем и закрываем лаунчер
 
 3) Качаем файл accounts.json и добавляем его с заменой в %appdata%/PrismLauncher/
 
