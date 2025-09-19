@@ -1,0 +1,318 @@
+Minecraft 1.20.1
+Java 17
+Forge ModLoader 47.4.0
+Рекоммендуемое кол-во памяти: 4-6 GB (на 4гб сборке может не хватать памяти для загрузки миров).
+
+---
+Глобальные технические моды:
+Create 
+Create Applied Kinetics 
+Create Big Cannons 
+Create Crafts & Additions 
+Create Diesel Generators 
+Create Enchantment Industry 
+Create Metallurgy 
+Create Ore Excavation 
+Create Recycling 
+Create Stock Bridge 
+Create: Broken Bad 
+Create: Central Kitchen 
+Create: Pattern Schematics 
+Create: Radars 
+Create: The Factory Must Grow 
+Create: Trading Floor 
+Create: Ultimate Factory 
+Bobber Detector 
+Bio-Factory 
+Rechiseled: Create 
+CreateBetterFps 
+
+Thermal Cultivation 
+Thermal Dynamics 
+Thermal Expansion 
+Thermal Foundation 
+Thermal Innovation 
+Thermal Integration 
+Thermal Locomotion 
+
+Applied Energistics 2 
+ME Requester 
+ExtendedAE 
+
+Railcraft Reborn 
+
+Immersive Engineering 
+
+Extreme Reactors 
+---
+
+
+
+---
+Глобальные рпг моды:
+tetra 
+tetracelium
+Tetra Extras 
+Tetranomicon 
+Undergarden-Tetra Patch 
+Withering Boon 
+
+Tinkers' Construct
+Tinkers' Advanced  
+Tinkers' Integrations and Tweaks 
+Tinkers' Jewelry 
+Tinkers' Levelling Addon 
+Construct's Casting 
+Blue Skies Tinkers Compat 
+ 
+Farmer's Delight 
+Autochef's Delight 
+Aether Delight
+Corn Delight 
+Fruits Delight
+Miner's Delight 
+Display Delight 
+Farmer's Croptopia
+Aquaculture Delight 
+Alex's Caves Delight 
+Spice of Life: Apple Pie Edition
+
+Croptopia 
+
+Aquaculture 2 
+
+Artifacts 
+---
+
+
+
+---
+Глобальные магические моды:
+Ars Nouveau 
+Ars Additions 
+Ars Artifice 
+Ars Creo 
+Ars Elemental 
+Ars Instrumentum 
+Ars Nouveau's Flavors & Delight 
+Ars Ocultas 
+Ars Technica 
+Ars Énergistique 
+Tome of Blood: Rebirth 
+
+The Aether 
+Aether: Lost Content 
+Deep Aether 
+Aether Villages 
+Aetheric Tetranomicon 
+
+Iron's Spells 'n Spellbooks 
+T.O Magic 'n Extras 
+
+The Twilight Forest 
+
+l_ender's cataclysm
+
+Blood Magic
+
+Blue Skies 
+
+Mystical Agriculture 
+Mystical Agriculture Tiered Crystals 
+
+Botania 
+
+Biomancy 2 
+
+Hexerei 
+
+Occultism 
+
+Theurgy 
+
+Relics 
+
+Reliquary 
+
+The Undergarden 
+
+Malum 
+---
+
+
+
+---
+Мобы:
+Born in Chaos 
+Alex's Caves 
+Enemy Expansion 
+Mowzie Mobs Respawner 
+Mowzie's Cataclysm 
+Mowzie's Mobs 
+Mocha's Complicated Bosses 
+KnightsnMages 
+Legendary Creatures 
+LegendaryMonsters 
+Sky Arena 
+Royal Variations 
+Mutant Monsters 
+Scaling Health 
+True Ending: Ender Dragon Overhaul 
+Ender Trigon 
+dragonfight mod 
+Ender Dragon Loot 1.20.1 
+---
+
+
+
+---
+Второстепенные QoL моды:
+Antique Atlas 
+BotanyPots 
+BotanyTrees 
+AstikorCarts Redux 
+Comforts 
+Traveler's Backpack 
+Elevator Mod 
+Ender Crop 
+Ender Mail 
+Ender Zoology 
+EnderStorage 
+Energy Meter 
+Ranged Pumps 
+Rechiseled 
+XP Tome 
+Modular Routers 
+Storage Drawers 
+Waystones 
+Item Collectors 
+Nature's Compass 
+Iron Chests 
+Iron Shulker Boxes 
+Simple Magnets 
+Little Logistics 
+Pipez 
+
+Jade 
+Jade Addons 
+Just Enough Items 
+Just Enough Botania  
+Just Enough Resources
+Just Enough Calculation
+Just Enough Immersive Multiblocks 
+Mouse Tweaks 
+Inventory Tweaks Refoxed 
+Carry On 
+Configured 
+Controlling 
+Traveler's Titles 
+Tree Harvester 
+True Darkness 
+Durability Tooltip 
+Fuel Goes Here 
+Clean Swing Through Grass 
+Clumps 
+Toast Control 
+Harvest with ease 
+Searchables 
+Polymorph 
+Polymorphic Energistics 
+Simple Backups 
+AppleSkin 
+Diet 
+---
+
+
+
+---
+Генерация мира:
+William Wythers Overhauled Overworld [FORGE] 
+Noisium 
+YUNG's API 
+YUNG's Better Desert Temples 
+YUNG's Better Dungeons 
+YUNG's Better End Island 
+YUNG's Better Jungle Temples 
+YUNG's Better Mineshafts 
+YUNG's Better Nether Fortresses 
+YUNG's Better Ocean Monuments 
+YUNG's Better Strongholds 
+YUNG's Extras 
+---
+
+
+
+---
+Библиотеки для модов/фиксы/оптимизация:
+All The Leaks 
+Almanac 
+Apothic Attributes 
+AI-Improvements 
+Architectury 
+AsyncParticles 
+BOZOID 
+Balm 
+Bookshelf 
+Caelus API 
+Chloride 
+Chunky 
+Citadel 
+Cloth Config v10 API 
+CoFH Core 
+Cobweb 
+CodeChicken Lib 
+Collective 
+Connectivity Mod 
+Cucumber Library 
+Cupboard utilities 
+Curios API 
+Embeddium 
+EntityCulling 
+EtSTLib 
+Fast Leaf Decay 
+Fast Suite 
+Fast Workbench 
+FastFurnace 
+Ferrite Core 
+Flerovium 
+Fusion 
+GeckoLib 4 
+Glodium 
+GuideME 
+ImmediatelyFast 
+Let Me Despawn 
+LionfishAPI 
+Lodestone 
+Logprot 
+Mantle 
+ModernFix 
+Modonomicon 
+Mysterious Mountain Lib 
+NetherPortalFix 
+OctoLib 
+Oculus 
+PacketFixer 
+Patchouli 
+Placebo 
+Player Animator 
+Puzzles Lib 
+RAR-Compat 
+TerraBlender 
+Ritchie's Projectile Library 
+Silent Lib 
+SmartBrainLib 
+Smoothchunk mod 
+Sodium Dynamic Lights 
+Sodium Options API 
+Starlight 
+Structure Gel API 
+SuperMartijn642's Config Library 
+SuperMartijn642's Core Lib 
+fastasyncworldsave mod 
+Yeetus Experimentus 
+UnionLib 
+Zero CORE 2
+mutil 
+---
+
+
