@@ -31,3 +31,12 @@ https://prismlauncher.org/download/windows/
 6) Заходим. 
 
 </details>
+
+<details>
+  
+<summary> Скачать сборку </summary>
+
+### Яндекс Диск
+https://disk.yandex.ru/d/FXOIXUK9qUVEgQ 
+
+</details>
