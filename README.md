@@ -1,6 +1,3 @@
-![9365248F-E05F-49D8-A01B-AC51999132B4_1_102_o](https://github.com/user-attachments/assets/72c7140a-1f18-43f3-8e81-bb8cd390f6ff)
-
-
 <details>
 
 <summary> Описание сборки </summary>
@@ -57,5 +54,5 @@ https://disk.yandex.ru/d/FXOIXUK9qUVEgQ
 
 </details>
 
-
+![9365248F-E05F-49D8-A01B-AC51999132B4_1_102_o](https://github.com/user-attachments/assets/72c7140a-1f18-43f3-8e81-bb8cd390f6ff)
 
