@@ -61,30 +61,30 @@ https://disk.yandex.ru/d/FXOIXUK9qUVEgQ
 ### Мод на прорисовку горизонта
 <img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/63d5955b-208a-45d2-99b8-c7d3d2aeb2ce" />
 
-Качаете мод для 1.20.1 Forge и закидываете в папку с модами https://modrinth.com/mod/distanthorizons 
-Как зайдете в игру, находите в настройках Distant Horizons(или DH).
-Ставьте прорисовку 128 или 256 чанков, ванильную прорисовку ставьте 10 чанков
+Качаете мод для 1.20.1 Forge и закидываете в папку с модами https://modrinth.com/mod/distanthorizons \
+Как зайдете в игру, находите в настройках Distant Horizons(или DH). \
+Ставьте прорисовку 128 или 256 чанков, ванильную прорисовку ставьте 10 чанков \
 
 
 ### Шейдеры
-Ищите шейдеры, которые поддерживают лоадер Iris и Distant Horizons(мод выше).
-Искать можно здесь: https://modrinth.com/shaders?v=1.20.1&g=categories:iris
+Ищите шейдеры, которые поддерживают лоадер Iris и Distant Horizons(мод выше).\
+Искать можно здесь: https://modrinth.com/shaders?v=1.20.1&g=categories:iris \
 
-Примеры шейдеров:
-Лайтовые шейдеры(с норм фпсом): 
-https://modrinth.com/shader/super-duper-vanilla
-https://modrinth.com/shader/makeup-ultra-fast-shaders
+Примеры шейдеров: \
+Лайтовые шейдеры(с норм фпсом): \
+https://modrinth.com/shader/super-duper-vanilla \
+https://modrinth.com/shader/makeup-ultra-fast-shaders \
 
-Жесткий шейдер(сильно режут, но красивые): 
-https://modrinth.com/shader/bliss-shader
-https://modrinth.com/shader/bsl-shaders
-https://modrinth.com/shader/nostalgia-shader
+Жесткий шейдер(сильно режут, но красивые): \
+https://modrinth.com/shader/bliss-shader \
+https://modrinth.com/shader/bsl-shaders \
+https://modrinth.com/shader/nostalgia-shader \
 
 ### Ресурсрпаки
-тут хз, выбирайте сами
-(ресурспаки можно комбинировать. например выбрать один текстурпак и поверх него накатить интерфейсы, иконки, статус бары и тд)
-звуки тоже в ресурспаках
-https://modrinth.com/resourcepacks?v=1.20.1
+тут хз, выбирайте сами \
+(ресурспаки можно комбинировать. например выбрать один текстурпак и поверх него накатить интерфейсы, иконки, статус бары и тд) \
+звуки и анимации тоже в ресурспаках \
+https://modrinth.com/resourcepacks?v=1.20.1 \
 
 </details>
 
